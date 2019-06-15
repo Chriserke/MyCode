@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyJavaApp</string>
+    <string name="display_data"></string>
+    <string name="receive_data">Receive Data</string>
+    <string name="send_message">Send Message</string>
+</resources>
