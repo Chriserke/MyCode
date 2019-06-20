@@ -12,7 +12,7 @@ HC‐05 module is an easy to use Bluetooth SPP (Serial Port Protocol) module,des
 
 ### - About This Application
 
-This Android Application lets you connect to HC-05 module via Bluetooth and hence lets you send signals to Arduino so that it can perform desired operations successfully. The Application sends 5 signals (numbers 1 to 5) that are used to turn a led on or off accordingly. It also has a graphing ability to graph incomming data that is received and parsed by their identifier bytes.
+This Android Application lets you connect to HC-05 module via Bluetooth and hence lets you send signals to Arduino or any other microcontroller with uart capabilities. So that it can perform desired operations successfully. The Application sends 5 signals (numbers 1 to 5) that are used to turn a led on or off accordingly. It also has a graphing ability to graph incomming data that is received and parsed by their identifier bytes.
 The code is pretty simple and can be ammended for desired applications.
 
 ### - Screenshots
@@ -20,14 +20,6 @@ The code is pretty simple and can be ammended for desired applications.
 - Android App Home Page
 
 ![HomePage](http://i.imgur.com/W6q1boP.png)
-
-- Android App Device Communication
-
-
-
-- Serial Monitor for Arduino IDE
-
-![ArduinoIDE](http://i.imgur.com/x35z1XP.png)
 
 ### - Reference
 
