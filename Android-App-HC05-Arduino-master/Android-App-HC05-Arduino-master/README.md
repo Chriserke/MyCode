@@ -12,8 +12,7 @@ HC‐05 module is an easy to use Bluetooth SPP (Serial Port Protocol) module,des
 
 ### - About This Application
 
-This Android Application lets you connect to HC-05 module via Bluetooth and hence lets you send signals to Arduino so that it can perform desired operations successfully. The Application sends 5 signals (numbers 1 to 5) that are used to prepare a sandwich deal accordingly. Example Combo 1 is Mayoneese, Mustard, Chicken etc.
-
+This Android Application lets you connect to HC-05 module via Bluetooth and hence lets you send signals to Arduino so that it can perform desired operations successfully. The Application sends 5 signals (numbers 1 to 5) that are used to turn a led on or off accordingly. It also has a graphing ability to graph incomming data that is received and parsed by their identifier bytes.
 The code is pretty simple and can be ammended for desired applications.
 
 ### - Screenshots
@@ -24,7 +23,7 @@ The code is pretty simple and can be ammended for desired applications.
 
 - Android App Device Communication
 
-![DeviceComm](http://i.imgur.com/8EGkfox.png)
+
 
 - Serial Monitor for Arduino IDE
 
