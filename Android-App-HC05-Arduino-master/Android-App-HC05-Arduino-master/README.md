@@ -2,7 +2,7 @@
 
 ![Arduino](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arduino_Uno_-_R3.jpg/220px-Arduino_Uno_-_R3.jpg)
 
-HC‐05 module is an easy to use Bluetooth SPP (Serial Port Protocol) module,designed for transparent wireless serial connection setup.The HC-05 Bluetooth Module can be used in a Master or Slave configuration, making it a great solution for wireless communication. [2]
+HC‐05 module is an easy to use Bluetooth SPP (Serial Port Protocol) module,designed for transparent wireless serial connection setup.The HC-05 Bluetooth Module can be used in a Master or Slave configuration, making it a great solution for wireless communication. [1]
 
 ![HC05](https://wiki.eprolabs.com/images/thumb/3/38/HC-05.jpg/250px-HC-05.jpg)
 
@@ -17,5 +17,4 @@ This Android Application lets you connect to HC-05 module via Bluetooth and henc
 
 ### - Reference
 
-- [1] - [Wikipedia - Arduino](https://en.wikipedia.org/wiki/Arduino)
-- [2] - [Wikipedia - HC 05](https://wiki.eprolabs.com/index.php?title=Bluetooth_Module_HC-05)
+- [1] - [Wikipedia - HC 05](https://wiki.eprolabs.com/index.php?title=Bluetooth_Module_HC-05)
