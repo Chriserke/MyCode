@@ -1,4 +1,4 @@
-# Android App HC05 Arduino
+# Android App HC05 
 
 ![Arduino](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arduino_Uno_-_R3.jpg/220px-Arduino_Uno_-_R3.jpg)
 
