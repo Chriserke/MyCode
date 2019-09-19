@@ -1,9 +1,5 @@
 # Android App HC05 Arduino
 
-### - Introduction
-
-Arduino is a computer hardware and software company, project, and user community that designs and manufactures microcontroller kits for building digital devices and interactive objects that can sense and control objects in the physical world. [1]
-
 ![Arduino](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arduino_Uno_-_R3.jpg/220px-Arduino_Uno_-_R3.jpg)
 
 HC‐05 module is an easy to use Bluetooth SPP (Serial Port Protocol) module,designed for transparent wireless serial connection setup.The HC-05 Bluetooth Module can be used in a Master or Slave configuration, making it a great solution for wireless communication. [2]
@@ -12,9 +8,7 @@ HC‐05 module is an easy to use Bluetooth SPP (Serial Port Protocol) module,des
 
 ### - About This Application
 
-This Android Application lets you connect to HC-05 module via Bluetooth and hence lets you send signals to Arduino or any other microcontroller with uart capabilities. So that it can perform desired operations successfully. The Application sends 5 signals (numbers 1 to 5) that are used to turn a led on or off accordingly. It also has a graphing ability to graph incomming data that is received and parsed by their identifier bytes.
-The code is pretty simple and can be ammended for desired applications.
-
+This Android Application lets you connect to HC-05 module via Bluetooth and hence lets you send and receive signals to and from any  microcontroller with UART capabilities.The App graphs incomming data which is parsed by their identifier bytes.
 ### - Screenshots
 
 - Android App Home Page
