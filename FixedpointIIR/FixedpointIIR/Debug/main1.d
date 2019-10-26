@@ -1,5 +1,4 @@
-clksys_driver.d clksys_driver.o: .././clksys_driver.c \
- .././clksys_driver.h .././avr_compiler.h \
+main1.d main1.o: .././main1.c .././clksys_driver.h .././avr_compiler.h \
  c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\lib\gcc\avr\5.4.0\include\stdint.h \
  c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\stdint.h \
  c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\lib\gcc\avr\5.4.0\include\stdbool.h \

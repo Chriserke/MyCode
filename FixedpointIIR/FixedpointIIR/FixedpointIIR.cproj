@@ -30,15 +30,15 @@
     <EraseKey />
     <AsfFrameworkConfig>
       <framework-data>
-  <options />
-  <configurations />
-  <files />
-  <documentation help="" />
-  <offline-documentation help="" />
-  <dependencies>
-    <content-extension eid="atmel.asf" uuidref="Atmel.ASF" version="3.34.1" />
-  </dependencies>
-</framework-data>
+        <options />
+        <configurations />
+        <files />
+        <documentation help="" />
+        <offline-documentation help="" />
+        <dependencies>
+          <content-extension eid="atmel.asf" uuidref="Atmel.ASF" version="3.34.1" />
+        </dependencies>
+      </framework-data>
     </AsfFrameworkConfig>
     <avrtool>com.atmel.avrdbg.tool.ispmk2</avrtool>
     <avrtoolinterface>PDI</avrtoolinterface>
@@ -137,7 +137,7 @@
     <Compile Include="avr_compiler.h">
       <SubType>compile</SubType>
     </Compile>
-    <None Include="CFile1.c">
+    <None Include="main1.c">
       <SubType>compile</SubType>
     </None>
     <Compile Include="clksys_driver.c">
@@ -146,6 +146,9 @@
     <Compile Include="clksys_driver.h">
       <SubType>compile</SubType>
     </Compile>
+    <None Include="Floating point and fixed point results test.c">
+      <SubType>compile</SubType>
+    </None>
     <Compile Include="main.c">
       <SubType>compile</SubType>
     </Compile>
